@@ -1,4 +1,4 @@
-# eCommerce Backend
+# eCommerce Backend Application
 
 ![License](https://img.shields.io/badge/License%3A-MIT-green.svg)
 
