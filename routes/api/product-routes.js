@@ -87,7 +87,7 @@ router.post('/', (req, res) => {
 .then((productTagIds) => res.status(200).json(productTagIds))
 .catch((err) => {
     console.log(err);
-    res.status(400).json(err);
+    res.status(404).json(err);
 });
 });
 
@@ -129,7 +129,7 @@ Product.update(req.body, {
 .then((updatedProductTags) => res.json(updatedProductTags))
 .catch((err) => {
 
-    res.status(400).json(err);
+    res.status(404).json(err);
 });
 });
 
