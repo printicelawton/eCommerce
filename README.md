@@ -35,7 +35,7 @@ If you have any specific questions about this project, please contact me at <pri
 
 ## Links
 - **[GitHub Repo](https://github.com/printicelaw10/eCommerce)**
-- **[Video Walkthrough](https://drive.google.com/file/d/1aGgXZqMSke0a-EXT3zCncm3080TtxUTE/view)**
+- **[Video Walkthrough](https://drive.google.com/file/d/1ql6MNN5R8_zFuTrBo8Przr3D0PyI3csl/view)**
 
 ## License
 ![License](https://img.shields.io/badge/License%3A-MIT-green.svg)
